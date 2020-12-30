@@ -27,6 +27,6 @@ h3{
 }
 .wh,img{
     display:flex;
-    flex-wrap:wrap
+    flex-wrap:wrap;
     border:outset;
 }
